@@ -17,7 +17,7 @@ with app.app_context():
     # Create an empty list
     pets = []
 
-    species = ['Dog', 'Cat', 'Chicken', 'Hamster', 'Turtle']
+    species = ['dog', 'cat', 'chicken', 'hamster', 'turtle']
 
     # Add some Pet instances to the list
     for n in range(10):
